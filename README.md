@@ -1,2 +1,3 @@
-# k8s-ex
-Simple Kubernetes example namespace for testing.
+# Kubernetes Examples
+
+Examples used for testing http://github.com/txn2/kubefwd/ .
